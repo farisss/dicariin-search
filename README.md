@@ -18,6 +18,7 @@ To build backend and tools, change your directory to backend_rank-c directory an
 * `make index` : to build `indexdb`
 * `make query` : to build plain `querydb` for query indexed data
 * `make queryjson` : to make json-formated `queryjson`
+* `make queryweb` : to make json-formated query as website backend
 * `make view` : to make hiracial view of query `tableview`
 
 Feel free to hack and learn!
